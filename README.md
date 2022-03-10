@@ -2,7 +2,7 @@
 This repository is about geolocation and map in react-native.
   
   
- ##ScreenShot 
+ ## ScreenShot 
 <img src="image/1.png">
 <img src="image/2.png">
 
